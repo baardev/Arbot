@@ -1,0 +1,5 @@
+#!/bin/bash
+npx hardhat run scripts/checkWallet.js --network polygon|grep MATIC >> logs/MATIC.log
+./checkDiff.py
+BAL=`tail -1 logs/MATIC.log`
+echo "BALANCE: ${BAL}"

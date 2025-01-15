@@ -1,0 +1,6 @@
+{
+  "solidity.compileUsingRemoteVersion": "v0.8.10+commit.fc410830",
+  "solidity.defaultCompiler": "remote",
+  "solidity.packageDefaultDependenciesContractsDirectory": "contracts",
+  "solidity.packageDefaultDependenciesDirectory": "node_modules"
+}

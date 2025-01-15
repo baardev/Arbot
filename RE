@@ -1,0 +1,29 @@
+#!/bin/bash
+# Remove node_modules and package-lock.json
+rm -rf node_modules
+rm package-lock.json
+
+# Clear npm cache
+npm cache clean --force
+
+# Reinstall dependencies
+npm install --legacy-peer-deps hardhat @nomiclabs/hardhat-waffle @nomiclabs/hardhat-ethers @nomiclabs/hardhat-etherscan ethereum-waffle chai ethers dotenv
+
+npm install hardhat@latest
+npm install @nomiclabs/hardhat-waffle@latest
+npm install @nomiclabs/hardhat-ethers@latest
+npm install @nomiclabs/hardhat-etherscan@latest
+npm install ethereum-waffle@latest
+npm install chai@latest 
+npm install ethers@latest
+npm install dotenv@latest
+
+# Install specific version of hardhat if needed
+npm install --legacy-peer-deps hardhat  #@2.19.4
+
+# Verify installation
+npx hardhat --version
+
+npx hardhat clean
+npx hardhat compile
+

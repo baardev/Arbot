@@ -1,0 +1,138 @@
+[2024-12-29T18:46:58.520Z], quickswap, WPOL/WETH: amount0In=116753203000000000000, amount1In=0, amount0Out=0, amount1Out=16346541373175111, blockNumber=66073495
+Error polling events for quickswap: Returned error: tx.Dual: 000000012303ad07 must be lexicographicaly before 000000012303ad07
+[2024-12-29T18:47:47.410Z], quickswap, WPOL/WETH: amount0In=109870723000000000000, amount1In=0, amount0Out=0, amount1Out=15380592200950593, blockNumber=66073514
+Error polling events for quickswap: Returned error: Retry failed, reason: Request timeout error
+[2024-12-29T18:47:53.549Z], quickswap, WPOL/WETH: amount0In=207956519000000000000, amount1In=0, amount0Out=0, amount1Out=29105235083574276, blockNumber=66073519
+Error polling events for quickswap: Returned error: Retry failed, reason: Request timeout error
+Error polling events for quickswap: Returned error: Retry failed, reason: Request timeout error
+Error polling events for quickswap: Returned error: Retry failed, reason: Request timeout error
+[2024-12-29T18:49:03.601Z], quickswap, WPOL/WETH: amount0In=0, amount1In=567081006063186, amount0Out=4028063542855782572, amount1Out=0, blockNumber=66073552
+[2024-12-29T18:49:33.619Z], quickswap, WPOL/WETH: amount0In=80584207312679658972, amount1In=0, amount0Out=0, amount1Out=11276304497970363, blockNumber=66073559
+[2024-12-29T18:49:48.632Z], quickswap, WPOL/WETH: amount0In=131147248242234669113, amount1In=0, amount0Out=0, amount1Out=18349085298135473, blockNumber=66073563
+Error polling events for quickswap: Returned error: tx.Dual: 000000012303dda7 must be lexicographicaly before 000000012303dda7
+Error polling events for quickswap: Returned error: tx.Dual: 000000012303e152 must be lexicographicaly before 000000012303e152
+Error polling events for quickswap: Returned error: tx.Dual: 000000012303ef41 must be lexicographicaly before 000000012303ef41
+[2024-12-29T18:55:48.938Z], quickswap, WPOL/WETH: amount0In=92227708130635634529, amount1In=0, amount0Out=0, amount1Out=12901838722888255, blockNumber=66073729
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230407d4 must be lexicographicaly before 00000001230407d4
+Error polling events for quickswap: Returned error: tx.Dual: 0000000123042808 must be lexicographicaly before 0000000123042808
+Error polling events for quickswap: Returned error: tx.Dual: 0000000123045c51 must be lexicographicaly before 0000000123045c51
+Error polling events for quickswap: Returned error: tx.Dual: 000000012304898b must be lexicographicaly before 000000012304898b
+Error polling events for quickswap: Returned error: tx.Dual: 000000012304aaf8 must be lexicographicaly before 000000012304aaf8
+[2024-12-29T19:22:55.179Z], quickswap, WPOL/WETH: amount0In=565000000000000000000, amount1In=0, amount0Out=0, amount1Out=79003723956078067, blockNumber=66074439
+Error polling events for quickswap: Returned error: tx.Dual: 000000012304f0f9 must be lexicographicaly before 000000012304f0f9
+[2024-12-29T19:23:55.228Z], quickswap, WPOL/WETH: amount0In=12500000000000000000, amount1In=0, amount0Out=0, amount1Out=1747192726487928, blockNumber=66074460
+Error polling events for quickswap: Returned error: tx.Dual: 0000000123051ef1 must be lexicographicaly before 0000000123051ef1
+Error polling events for quickswap: Returned error: tx.Dual: 0000000123055bad must be lexicographicaly before 0000000123055bad
+Error polling events for quickswap: Returned error: tx.Dual: 0000000123055e90 must be lexicographicaly before 0000000123055e90
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230560ab must be lexicographicaly before 00000001230560ab
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230575c8 must be lexicographicaly before 00000001230575c8
+Error polling events for quickswap: Returned error: tx.Dual: 000000012305791f must be lexicographicaly before 000000012305791f
+Error polling events for quickswap: Returned error: tx.Dual: 0000000123057e66 must be lexicographicaly before 0000000123057e66
+Error polling events for quickswap: Returned error: tx.Dual: 000000012305826e must be lexicographicaly before 000000012305826e
+[2024-12-29T19:44:51.260Z], quickswap, WPOL/WETH: amount0In=368775969735720500000, amount1In=0, amount0Out=0, amount1Out=51532669343006970, blockNumber=66075007
+[2024-12-29T19:46:11.328Z], quickswap, WPOL/WETH: amount0In=0, amount1In=37922025809044576, amount0Out=269768149156839105817, amount1Out=0, blockNumber=66075034
+[2024-12-29T19:46:41.346Z], quickswap, WPOL/WETH: amount0In=104263790931558663604, amount1In=0, amount0Out=0, amount1Out=14570459039360997, blockNumber=66075045
+Error polling events for quickswap: Returned error: tx.Dual: 000000012305ab65 must be lexicographicaly before 000000012305ab65
+[2024-12-29T19:47:01.360Z], quickswap, WPOL/WETH: amount0In=75731067004254250792, amount1In=0, amount0Out=0, amount1Out=10581845541421236, blockNumber=66075053
+[2024-12-29T19:48:36.445Z], quickswap, WPOL/WETH: amount0In=59658924999135000000, amount1In=0, amount0Out=0, amount1Out=8335340971559070, blockNumber=66075098
+[2024-12-29T19:48:36.445Z], quickswap, WPOL/WETH: amount0In=395730447869490036736, amount1In=0, amount0Out=0, amount1Out=55273262034636765, blockNumber=66075099
+[2024-12-29T19:48:51.453Z], quickswap, WPOL/WETH: amount0In=57837614615537522621, amount1In=0, amount0Out=0, amount1Out=8075955657029468, blockNumber=66075103
+Error polling events for quickswap: Returned error: tx.Dual: 000000012305c339 must be lexicographicaly before 000000012305c339
+[2024-12-29T19:50:26.546Z], quickswap, WPOL/WETH: amount0In=0, amount1In=659595110874101, amount0Out=4695692730709389559, amount1Out=0, blockNumber=66075149
+Error polling events for quickswap: Returned error: tx.Dual: 000000012306031c must be lexicographicaly before 000000012306031c
+Error polling events for quickswap: Returned error: tx.Dual: 0000000123060fbb must be lexicographicaly before 0000000123060fbb
+Error polling events for quickswap: Returned error: tx.Dual: 000000012306106b must be lexicographicaly before 000000012306106b
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230620a2 must be lexicographicaly before 00000001230620a2
+[2024-12-29T20:01:32.104Z], quickswap, WPOL/WETH: amount0In=114329390000000000000, amount1In=0, amount0Out=0, amount1Out=15962250916347897, blockNumber=66075429
+[2024-12-29T20:01:37.105Z], quickswap, WPOL/WETH: amount0In=208294831000000000000, amount1In=0, amount0Out=0, amount1Out=29075083012143107, blockNumber=66075434
+[2024-12-29T20:01:42.115Z], quickswap, WPOL/WETH: amount0In=85523713200000000000, amount1In=0, amount0Out=0, amount1Out=11935580061902222, blockNumber=66075438
+[2024-12-29T20:02:27.152Z], quickswap, WPOL/WETH: amount0In=200054051687313100000, amount1In=0, amount0Out=0, amount1Out=27913953829746777, blockNumber=66075459
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230645f0 must be lexicographicaly before 00000001230645f0
+[2024-12-29T20:10:42.517Z], quickswap, WPOL/WETH: amount0In=12889500000000000000, amount1In=0, amount0Out=0, amount1Out=1798241785919331, blockNumber=66075670
+[2024-12-29T20:12:07.565Z], quickswap, WPOL/WETH: amount0In=6000000000000000000, amount1In=0, amount0Out=0, amount1Out=837062276904093, blockNumber=66075702
+[2024-12-29T20:12:52.819Z], quickswap, WPOL/WETH: amount0In=0, amount1In=567084067343187, amount0Out=4040469313143505728, amount1Out=0, blockNumber=66075723
+[2024-12-29T20:12:52.819Z], quickswap, WPOL/WETH: amount0In=145488965092816164761, amount1In=0, amount0Out=0, amount1Out=20295275698830005, blockNumber=66075723
+Error polling events for quickswap: Returned error: tx.Dual: 000000012306914c must be lexicographicaly before 000000012306914c
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230696c3 must be lexicographicaly before 00000001230696c3
+Error polling events for quickswap: Returned error: tx.Dual: 0000000123069baf must be lexicographicaly before 0000000123069baf
+[2024-12-29T20:18:12.838Z], quickswap, WPOL/WETH: amount0In=101900000000000000000, amount1In=0, amount0Out=0, amount1Out=14212391246862307, blockNumber=66075857
+Error polling events for quickswap: Returned error: tx.Dual: 000000012306e34c must be lexicographicaly before 000000012306e34c
+Error polling events for quickswap: Returned error: tx.Dual: 000000012307093a must be lexicographicaly before 000000012307093a
+[2024-12-29T20:30:48.388Z], quickswap, WPOL/WETH: amount0In=0, amount1In=215467562565580, amount0Out=1535707344652991004, amount1Out=0, blockNumber=66076197
+[2024-12-29T20:40:38.829Z], quickswap, WPOL/WETH: amount0In=0, amount1In=22440061589337, amount0Out=159937429623360338, amount1Out=0, blockNumber=66076436
+[2024-12-29T20:46:04.108Z], quickswap, WPOL/WETH: amount0In=19790000000000000000, amount1In=0, amount0Out=0, amount1Out=2759969905222869, blockNumber=66076570
+[2024-12-29T20:46:04.108Z], quickswap, WPOL/WETH: amount0In=107238605898123327, amount1In=0, amount0Out=0, amount1Out=14955602718886, blockNumber=66076574
+Error polling events for quickswap: Returned error: tx.Dual: 000000012307b7fc must be lexicographicaly before 000000012307b7fc
+Error polling events for quickswap: Returned error: tx.Dual: 000000012307bae8 must be lexicographicaly before 000000012307bae8
+Error polling events for quickswap: Returned error: tx.Dual: 000000012307e7fb must be lexicographicaly before 000000012307e7fb
+Error polling events for quickswap: Returned error: tx.Dual: 000000012307f716 must be lexicographicaly before 000000012307f716
+[2024-12-29T21:07:05.091Z], quickswap, WPOL/WETH: amount0In=0, amount1In=1230844941540095, amount0Out=8772803035395428100, amount1Out=0, blockNumber=66077118
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230845cb must be lexicographicaly before 00000001230845cb
+[2024-12-29T21:11:00.294Z], quickswap, WPOL/WETH: amount0In=0, amount1In=220635496796173, amount0Out=1572560632855444989, amount1Out=0, blockNumber=66077211
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230877d0 must be lexicographicaly before 00000001230877d0
+Error polling events for quickswap: Returned error: tx.Dual: 0000000123088e43 must be lexicographicaly before 0000000123088e43
+[2024-12-29T21:29:06.133Z], quickswap, WPOL/WETH: amount0In=126883560000000000000, amount1In=0, amount0Out=0, amount1Out=17694051787393521, blockNumber=66077678
+[2024-12-29T21:30:16.190Z], quickswap, WPOL/WETH: amount0In=107157401000000000000, amount1In=0, amount0Out=0, amount1Out=14940876705774192, blockNumber=66077710
+[2024-12-29T21:31:46.246Z], quickswap, WPOL/WETH: amount0In=108330257000000000000, amount1In=0, amount0Out=0, amount1Out=15102229349692310, blockNumber=66077753
+[2024-12-29T21:31:56.268Z], quickswap, WPOL/WETH: amount0In=157376888000000000000, amount1In=0, amount0Out=0, amount1Out=21935879529067265, blockNumber=66077757
+[2024-12-29T21:32:06.268Z], quickswap, WPOL/WETH: amount0In=183152043000000000000, amount1In=0, amount0Out=0, amount1Out=25522718774249790, blockNumber=66077762
+Error polling events for quickswap: Returned error: tx.Dual: 0000000123090b12 must be lexicographicaly before 0000000123090b12
+Error polling events for quickswap: Returned error: tx.Dual: 0000000123092b18 must be lexicographicaly before 0000000123092b18
+Error polling events for quickswap: Returned error: tx.Dual: 000000012309529b must be lexicographicaly before 000000012309529b
+[2024-12-29T21:43:46.855Z], quickswap, WPOL/WETH: amount0In=40000000000000000000, amount1In=0, amount0Out=0, amount1Out=5573272304684440, blockNumber=66078049
+[2024-12-29T21:44:21.889Z], quickswap, WPOL/WETH: amount0In=136000000000000000000, amount1In=0, amount0Out=0, amount1Out=18946896938116881, blockNumber=66078064
+[2024-12-29T21:47:02.030Z], quickswap, WPOL/WETH: amount0In=34000000000000000000, amount1In=0, amount0Out=0, amount1Out=4736185155249020, blockNumber=66078126
+[2024-12-29T21:47:52.071Z], quickswap, WPOL/WETH: amount0In=156946488000000000000, amount1In=0, amount0Out=0, amount1Out=21859788041839941, blockNumber=66078149
+[2024-12-29T21:49:32.166Z], quickswap, WPOL/WETH: amount0In=84148372062707706785, amount1In=0, amount0Out=0, amount1Out=11718445470762132, blockNumber=66078196
+[2024-12-29T21:49:57.178Z], quickswap, WPOL/WETH: amount0In=77347371804941446965, amount1In=0, amount0Out=0, amount1Out=10770179444803436, blockNumber=66078208
+[2024-12-29T21:50:07.190Z], quickswap, WPOL/WETH: amount0In=311363802069944234092, amount1In=0, amount0Out=0, amount1Out=43344372622683760, blockNumber=66078212
+[2024-12-29T21:50:12.192Z], quickswap, WPOL/WETH: amount0In=43037953536544091319, amount1In=0, amount0Out=0, amount1Out=5989811864338125, blockNumber=66078215
+[2024-12-29T21:51:57.279Z], quickswap, WPOL/WETH: amount0In=0, amount1In=212328953139304, amount0Out=1516526626440096904, amount1Out=0, blockNumber=66078250
+Error polling events for quickswap: Returned error: tx.Dual: 000000012309bbf6 must be lexicographicaly before 000000012309bbf6
+Error polling events for quickswap: Returned error: tx.Dual: 000000012309be10 must be lexicographicaly before 000000012309be10
+Error polling events for quickswap: Returned error: tx.Dual: 000000012309c3d1 must be lexicographicaly before 000000012309c3d1
+Error polling events for quickswap: Returned error: tx.Dual: 000000012309c668 must be lexicographicaly before 000000012309c668
+[2024-12-29T21:58:27.682Z], quickswap, WPOL/WETH: amount0In=121975676169315930789, amount1In=0, amount0Out=0, amount1Out=16974141209300121, blockNumber=66078432
+[2024-12-29T21:59:02.624Z], quickswap, WPOL/WETH: amount0In=731469897270000000, amount1In=0, amount0Out=0, amount1Out=101783025214616, blockNumber=66078441
+Error polling events for quickswap: Returned error: tx.Dual: 000000012309da2a must be lexicographicaly before 000000012309da2a
+Error polling events for quickswap: Returned error: tx.Dual: 000000012309df58 must be lexicographicaly before 000000012309df58
+Error polling events for quickswap: Returned error: tx.Dual: 000000012309e49b must be lexicographicaly before 000000012309e49b
+[2024-12-29T22:01:17.726Z], quickswap, WPOL/WETH: amount0In=466362090000000000000, amount1In=0, amount0Out=0, amount1Out=64864129303410229, blockNumber=66078498
+[2024-12-29T22:01:17.726Z], quickswap, WPOL/WETH: amount0In=115151191753072290705, amount1In=0, amount0Out=0, amount1Out=16009613689605662, blockNumber=66078498
+Error polling events for quickswap: Returned error: tx.Dual: 000000012309ee02 must be lexicographicaly before 000000012309ee02
+Error polling events for quickswap: Returned error: tx.Dual: 000000012309f6eb must be lexicographicaly before 000000012309f6eb
+[2024-12-29T22:03:27.775Z], quickswap, WPOL/WETH: amount0In=122830622000000000000, amount1In=0, amount0Out=0, amount1Out=17074579199505346, blockNumber=66078560
+[2024-12-29T22:04:27.824Z], quickswap, WPOL/WETH: amount0In=125451307605056321139, amount1In=0, amount0Out=0, amount1Out=17435985856109635, blockNumber=66078588
+[2024-12-29T22:04:27.824Z], quickswap, WPOL/WETH: amount0In=135876338257990609099, amount1In=0, amount0Out=0, amount1Out=18881623432763177, blockNumber=66078588
+[2024-12-29T22:07:12.944Z], quickswap, WPOL/WETH: amount0In=109000000000000000000, amount1In=0, amount0Out=0, amount1Out=15144360524234563, blockNumber=66078650
+[2024-12-29T22:09:13.024Z], quickswap, WPOL/WETH: amount0In=299250000000000000000, amount1In=0, amount0Out=0, amount1Out=41566193881233432, blockNumber=66078707
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230a2b4b must be lexicographicaly before 00000001230a2b4b
+[2024-12-29T22:10:13.072Z], quickswap, WPOL/WETH: amount0In=502976138714781253632, amount1In=0, amount0Out=0, amount1Out=69826602208011089, blockNumber=66078736
+[2024-12-29T22:11:43.137Z], quickswap, WPOL/WETH: amount0In=1715113238437409330, amount1In=0, amount0Out=0, amount1Out=238023453488486, blockNumber=66078773
+[2024-12-29T22:15:53.310Z], quickswap, WPOL/WETH: amount0In=56594120245174630141, amount1In=0, amount0Out=0, amount1Out=7853827966997227, blockNumber=66078871
+[2024-12-29T22:20:48.515Z], quickswap, WPOL/WETH: amount0In=546042567318671589376, amount1In=0, amount0Out=0, amount1Out=75746416146553473, blockNumber=66079004
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230a9e76 must be lexicographicaly before 00000001230a9e76
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230aa047 must be lexicographicaly before 00000001230aa047
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230aa2f3 must be lexicographicaly before 00000001230aa2f3
+[2024-12-29T22:27:18.810Z], quickswap, WPOL/WETH: amount0In=68332431983711812169, amount1In=0, amount0Out=0, amount1Out=9475108017859723, blockNumber=66079174
+[2024-12-29T22:27:33.835Z], quickswap, WPOL/WETH: amount0In=100191974000000000000, amount1In=0, amount0Out=0, amount1Out=13891252299047930, blockNumber=66079179
+[2024-12-29T22:27:48.843Z], quickswap, WPOL/WETH: amount0In=10000000000000000000, amount1In=0, amount0Out=0, amount1Out=1386361511810144, blockNumber=66079187
+[2024-12-29T22:28:23.864Z], quickswap, WPOL/WETH: amount0In=84968604335891011749, amount1In=0, amount0Out=0, amount1Out=11778974729841893, blockNumber=66079202
+[2024-12-29T22:30:28.972Z], quickswap, WPOL/WETH: amount0In=0, amount1In=1757167972994811, amount0Out=12600146452405675482, amount1Out=0, blockNumber=66079248
+[2024-12-29T22:30:28.972Z], quickswap, WPOL/WETH: amount0In=0, amount1In=1572307975576598, amount0Out=11274388390355602594, amount1Out=0, blockNumber=66079248
+[2024-12-29T22:37:14.277Z], quickswap, WPOL/WETH: amount0In=0, amount1In=3935374810898488, amount0Out=28218245310120760564, amount1Out=0, blockNumber=66079424
+[2024-12-29T22:37:29.283Z], quickswap, WPOL/WETH: amount0In=154202648250773853815, amount1In=0, amount0Out=0, amount1Out=21374789369534354, blockNumber=66079431
+[2024-12-29T22:37:59.332Z], quickswap, WPOL/WETH: amount0In=0, amount1In=326878660053292, amount0Out=2344287890010073077, amount1Out=0, blockNumber=66079445
+[2024-12-29T22:37:59.332Z], quickswap, WPOL/WETH: amount0In=0, amount1In=325666725988258, amount0Out=2335588902747630259, amount1Out=0, blockNumber=66079445
+[2024-12-29T22:39:09.354Z], quickswap, WPOL/WETH: amount0In=0, amount1In=2516750475221996, amount0Out=18049170884602685610, amount1Out=0, blockNumber=66079478
+[2024-12-29T22:40:09.405Z], quickswap, WPOL/WETH: amount0In=3000000000000000000, amount1In=0, amount0Out=0, amount1Out=415813762505895, blockNumber=66079504
+[2024-12-29T22:40:19.423Z], quickswap, WPOL/WETH: amount0In=658190089268555636, amount1In=0, amount0Out=0, amount1Out=91227942944835, blockNumber=66079511
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230b3c8f must be lexicographicaly before 00000001230b3c8f
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230b5942 must be lexicographicaly before 00000001230b5942
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230b5d20 must be lexicographicaly before 00000001230b5d20
+[2024-12-29T22:46:49.713Z], quickswap, WPOL/WETH: amount0In=0, amount1In=216073602718329, amount0Out=1549584371104417789, amount1Out=0, blockNumber=66079671
+[2024-12-29T22:47:19.740Z], quickswap, WPOL/WETH: amount0In=0, amount1In=210923651465526, amount0Out=1512651234400699182, amount1Out=0, blockNumber=66079680
+Error polling events for quickswap: Returned error: tx.Dual: 00000001230b6746 must be lexicographicaly before 00000001230b6746
+[2024-12-29T22:49:04.818Z], quickswap, WPOL/WETH: amount0In=0, amount1In=2600000000000000, amount0Out=18645800008746796190, amount1Out=0, blockNumber=66079729
+
+

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "WETH/DAI",
+    "dex": "QuickSwap",
+    "pairAddress": "0x4A35582a710E1F4b2030A3F826DA20BfB6703C09",
+    "token0": {
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "decimals": 18,
+      "reserve": "12699186627077372046",
+      "reserveUSD": 3.806610900258724e+21
+    },
+    "token1": {
+      "symbol": "DAI",
+      "name": "(PoS) Dai Stablecoin",
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "decimals": 18,
+      "reserve": "42358762641324061989462",
+      "reserveUSD": 3.806610900258724e+21
+    },
+    "totalLiquidityUSD": 7.613221800517448e+21
+  },
+  {
+    "name": "WPOL/USDC",
+    "dex": "QuickSwap",
+    "pairAddress": "0x6e7a5FAFcec6BB1e78bAE2A1F0B612012BF14827",
+    "token0": {
+      "symbol": "WPOL",
+      "name": "Wrapped Polygon Ecosystem Token",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "decimals": 18,
+      "reserve": "1202027251020201462443320",
+      "reserveUSD": 5.0848608775527415e+22
+    },
+    "token1": {
+      "symbol": "USDC",
+      "name": "USD Coin (PoS)",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "decimals": 6,
+      "reserve": "566009414019",
+      "reserveUSD": 5.085677504810505e+22
+    },
+    "totalLiquidityUSD": 1.0170538382363247e+23
+  },
+  {
+    "name": "WPOL/USDT",
+    "dex": "QuickSwap",
+    "pairAddress": "0x604229c960e5CACF2aaEAc8Be68Ac07BA9dF81c3",
+    "token0": {
+      "symbol": "WPOL",
+      "name": "Wrapped Polygon Ecosystem Token",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "decimals": 18,
+      "reserve": "298360074945750196592428",
+      "reserveUSD": 1.2618656343075387e+22
+    },
+    "token1": {
+      "symbol": "USDT",
+      "name": "(PoS) Tether USD",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "decimals": 6,
+      "reserve": "140710521170",
+      "reserveUSD": 1.2587779063636931e+22
+    },
+    "totalLiquidityUSD": 2.5206435406712316e+22
+  },
+  {
+    "name": "DAI/USDT",
+    "dex": "QuickSwap",
+    "pairAddress": "0x59153f27eeFE07E5eCE4f9304EBBa1DA6F53CA88",
+    "token0": {
+      "symbol": "DAI",
+      "name": "(PoS) Dai Stablecoin",
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "decimals": 18,
+      "reserve": "92169001932180148272899",
+      "reserveUSD": 8.282855908513322e+21
+    },
+    "token1": {
+      "symbol": "USDT",
+      "name": "(PoS) Tether USD",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "decimals": 6,
+      "reserve": "92472754318",
+      "reserveUSD": 8.272491574063879e+21
+    },
+    "totalLiquidityUSD": 1.65553474825772e+22
+  },
+  {
+    "name": "USDC/DAI",
+    "dex": "QuickSwap",
+    "pairAddress": "0xf04adBF75cDFc5eD26eeA4bbbb991DB002036Bdd",
+    "token0": {
+      "symbol": "USDC",
+      "name": "USD Coin (PoS)",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "decimals": 6,
+      "reserve": "154099063559",
+      "reserveUSD": 1.384602661446304e+22
+    },
+    "token1": {
+      "symbol": "DAI",
+      "name": "(PoS) Dai Stablecoin",
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "decimals": 18,
+      "reserve": "153829550212902578704913",
+      "reserveUSD": 1.3824040319134963e+22
+    },
+    "totalLiquidityUSD": 2.7670066933598e+22
+  }
+]

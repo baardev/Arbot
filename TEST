@@ -1,0 +1,57 @@
+#!/bin/bash
+npx hardhat clean
+
+# Function to handle errors
+handle_error() {
+    echo "Error: $1 failed"
+    exit 1
+}
+
+# Function to display step information
+show_step() {
+    echo -e "\n===== $1 (Command: $2) ====="
+}
+
+# Create logs directory if it doesn't exist
+show_step "Setting Up Logs Directory" "mkdir -p logs"
+mkdir -p logs
+echo "Logs directory ready"
+
+# Check if npm and npx are available
+command -v npm >/dev/null 2>&1 || { echo "npm is required but not installed"; exit 1; }
+command -v npx >/dev/null 2>&1 || { echo "npx is required but not installed"; exit 1; }
+
+# Compile contracts
+show_step "Compiling Contracts" "npx hardhat compile --force"
+npx hardhat compile --force || handle_error "contract compilation"
+
+# Deploy contracts
+show_step "Deploying Contracts" "npx hardhat run scripts/deploy.js --network polygon"
+npx hardhat run scripts/deploy.js --network polygon || handle_error "contract deployment"
+# npx hardhat run scripts/deploy.js --network localhost || handle_error "contract deployment"
+
+# Fund contract with USDC
+show_step "Funding Contract with USDC" "node scripts/fundContract.js"
+node scripts/fundContract.js || handle_error "contract funding"
+
+# Test flash loan
+show_step "Testing Flash Loan" "node scripts/checkState.js"
+node scripts/checkState.js || handle_error "check state"
+
+show_step "Testing Flash Loan" "node scripts/testFlashLoan.js"
+node scripts/testFlashLoan.js || handle_error "flash loan test"
+
+# Run arbitrage check
+show_step "Checking Arbitrage Opportunities" "node scripts/checkArbitrage.js"
+node scripts/checkArbitrage.js || handle_error "arbitrage check"
+
+# Run unit tests
+show_step "Running Unit Tests" "npx hardhat test test/Flashloan.test.js"
+npx hardhat test test/Flashloan.test.js || handle_error "unit tests"
+
+# # Run bot
+# show_step "Starting Bot" "npm run bot"
+# npm run bot || handle_error "bot execution"
+
+# echo -e "\n===== All operations completed successfully ====="
+# echo "Check the logs directory for detailed execution logs"

@@ -1,0 +1,192 @@
+[
+  {
+    "name": "TT01/TT02",
+    "dex": "QuickSwap",
+    "pairAddress": "0xd899e25F21222ABE4E6212a7aDb26190B5976268",
+    "token0": {
+      "symbol": "TT01",
+      "name": "Test Token 01",
+      "address": "0x55BeE1bD3Eb9986f6d2d963278de09eE92a3eF1D",
+      "decimals": 18,
+      "reserve": "3345084215230710941089"
+    },
+    "token1": {
+      "symbol": "TT02",
+      "name": "Test Token 02",
+      "address": "0xF6Ad3CcF71Abb3E12beCf6b3D2a74C963859ADCd",
+      "decimals": 18,
+      "reserve": "3221689843350664430450"
+    }
+  },
+  {
+    "name": "WETH/DAI",
+    "dex": "QuickSwap",
+    "pairAddress": "0x4A35582a710E1F4b2030A3F826DA20BfB6703C09",
+    "token0": {
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "decimals": 18,
+      "reserve": "12699186627077372046"
+    },
+    "token1": {
+      "symbol": "DAI",
+      "name": "(PoS) Dai Stablecoin",
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "decimals": 18,
+      "reserve": "42358762641324061989462"
+    }
+  },
+  {
+    "name": "WPOL/USDC",
+    "dex": "QuickSwap",
+    "pairAddress": "0x6e7a5FAFcec6BB1e78bAE2A1F0B612012BF14827",
+    "token0": {
+      "symbol": "WPOL",
+      "name": "Wrapped Polygon Ecosystem Token",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "decimals": 18,
+      "reserve": "1199857007754778129594242"
+    },
+    "token1": {
+      "symbol": "USDC",
+      "name": "USD Coin (PoS)",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "decimals": 6,
+      "reserve": "567030110408"
+    }
+  },
+  {
+    "name": "WPOL/USDT",
+    "dex": "QuickSwap",
+    "pairAddress": "0x604229c960e5CACF2aaEAc8Be68Ac07BA9dF81c3",
+    "token0": {
+      "symbol": "WPOL",
+      "name": "Wrapped Polygon Ecosystem Token",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "decimals": 18,
+      "reserve": "297748080367963232161007"
+    },
+    "token1": {
+      "symbol": "USDT",
+      "name": "(PoS) Tether USD",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "decimals": 6,
+      "reserve": "140998864584"
+    }
+  },
+  {
+    "name": "DAI/USDT",
+    "dex": "QuickSwap",
+    "pairAddress": "0x59153f27eeFE07E5eCE4f9304EBBa1DA6F53CA88",
+    "token0": {
+      "symbol": "DAI",
+      "name": "(PoS) Dai Stablecoin",
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "decimals": 18,
+      "reserve": "92169001932180148272899"
+    },
+    "token1": {
+      "symbol": "USDT",
+      "name": "(PoS) Tether USD",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "decimals": 6,
+      "reserve": "92472754318"
+    }
+  },
+  {
+    "name": "USDC/DAI",
+    "dex": "QuickSwap",
+    "pairAddress": "0xf04adBF75cDFc5eD26eeA4bbbb991DB002036Bdd",
+    "token0": {
+      "symbol": "USDC",
+      "name": "USD Coin (PoS)",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "decimals": 6,
+      "reserve": "154099063559"
+    },
+    "token1": {
+      "symbol": "DAI",
+      "name": "(PoS) Dai Stablecoin",
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "decimals": 18,
+      "reserve": "153829550212902578704913"
+    }
+  },
+  {
+    "name": "WPOL/DAI",
+    "dex": "QuickSwap",
+    "pairAddress": "0xEEf611894CeaE652979C9D0DaE1dEb597790C6eE",
+    "token0": {
+      "symbol": "WPOL",
+      "name": "Wrapped Polygon Ecosystem Token",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "decimals": 18,
+      "reserve": "17039869270506694766004"
+    },
+    "token1": {
+      "symbol": "DAI",
+      "name": "(PoS) Dai Stablecoin",
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "decimals": 18,
+      "reserve": "8055860258220102187453"
+    }
+  },
+  {
+    "name": "USDC/EASY",
+    "dex": "QuickSwap",
+    "pairAddress": "0x5E8eE0667Fe7618c46D51B83C37155a2873Bc734",
+    "token0": {
+      "symbol": "USDC",
+      "name": "USD Coin (PoS)",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "decimals": 6,
+      "reserve": "6656036"
+    },
+    "token1": {
+      "symbol": "EASY",
+      "name": "EASY",
+      "address": "0xDb3b3b147A030F032633f6C4BEBf9a2fB5a882B5",
+      "decimals": 18,
+      "reserve": "9494988412703357165275"
+    }
+  },
+  {
+    "name": "WPOL/QUICK",
+    "dex": "QuickSwap",
+    "pairAddress": "0x019ba0325f1988213D448b3472fA1cf8D07618d7",
+    "token0": {
+      "symbol": "WPOL",
+      "name": "Wrapped Polygon Ecosystem Token",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "decimals": 18,
+      "reserve": "267944956015332916720812"
+    },
+    "token1": {
+      "symbol": "QUICK",
+      "name": "Quickswap",
+      "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+      "decimals": 18,
+      "reserve": "2906009555473904254265"
+    }
+  },
+  {
+    "name": "WPOL/WETH",
+    "dex": "QuickSwap",
+    "pairAddress": "0xadbF1854e5883eB8aa7BAf50705338739e558E5b",
+    "token0": {
+      "symbol": "WPOL",
+      "name": "Wrapped Polygon Ecosystem Token",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "decimals": 18,
+      "reserve": "1483807984111761701596360"
+    },
+    "token1": {
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "decimals": 18,
+      "reserve": "210031594390536808445"
+    }
+  }
+]

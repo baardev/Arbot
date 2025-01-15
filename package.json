@@ -1,0 +1,36 @@
+{
+  "name": "polygon-arbitrage-bot",
+  "version": "1.0.0",
+  "description": "This code takes advantage of price discrepancies for a token pair between Quickswap, Sushiswap, and UniswapV3 on the Polygon mainnet. In order to maximize profits, these arbitrage opportunities will be exploited with the help of a flashloan from AAVE.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "hardhat test test/Flashloan.test.js",
+    "bot": "node bot.js",
+    "bot:dev": "NODE_ENV=development node bot.js",
+    "bot:prod": "NODE_ENV=production node bot.js",
+    "deploy": "hardhat run scripts/deploy.js",
+    "compile": "hardhat compile"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.0",
+    "@nomicfoundation/hardhat-ethers": "^3.0.0",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "chai": "^4.3.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "@aave/core-v3": "^1.19.3",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "@uniswap/v3-periphery": "^1.4.4",
+    "chai-bignumber": "^3.1.0",
+    "chalk": "^4.1.2",
+    "ethers": "^5.7.2",
+    "js-yaml": "^4.1.0",
+    "web3": "^1.10.4"
+  }
+}
